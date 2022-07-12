@@ -26,7 +26,6 @@ Search Order Tab=Action14\Script.mts
 Search Order By Name=Action10\Script.mts
 Search Order By Number=Action12\Script.mts
 Close App- New=Action17\Script.mts
-To be removed=Action18\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -110,6 +109,3 @@ Action12\ObjectRepository.bdb=
 Action17\Script.mts=
 Action17\Resource.mtr=
 Action17\ObjectRepository.bdb=
-Action18\Script.mts=
-Action18\Resource.mtr=
-Action18\ObjectRepository.bdb=
