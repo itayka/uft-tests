@@ -9,5 +9,5 @@ RunAction "Order By Ad", oneIteration
 RunAction "New Search", oneIteration
 RunAction "Search Order By Name", oneIteration
 RunAction "Search Order By Number", oneIteration
-RunAction "Select Order - new", oneIteration
+RunAction "Select Order", oneIteration
 RunAction "Close App- New", oneIteration
