@@ -22,7 +22,6 @@ Order By Ad=Action8\Script.mts
 New Search=Action9\Script.mts
 Update Order Details=Action6\Script.mts
 Select Order=Action13\Script.mts
-Search Order Tab=Action14\Script.mts
 Search Order By Name=Action10\Script.mts
 Close App- New=Action17\Script.mts
 
@@ -96,9 +95,6 @@ Action6\ObjectRepository.bdb=
 Action13\Script.mts=
 Action13\Resource.mtr=
 Action13\ObjectRepository.bdb=
-Action14\Script.mts=
-Action14\Resource.mtr=
-Action14\ObjectRepository.bdb=
 Action10\Script.mts=
 Action10\Resource.mtr=
 Action10\ObjectRepository.bdb=
