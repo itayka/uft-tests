@@ -13,6 +13,7 @@ DevelopTool=AQT
 [Actions]
 Action0=Action0\Script.mts
 1 Login=Action1\Script.mts
+Login new=Action2\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -35,19 +36,14 @@ ProductName=OpenText UFT One
 Version=23.4
 
 [TulipAddins]
-ActiveX=
 AI=
 Database=
 File Content=
 Insight=
-PowerBuilder=
+Qt=
 Windows Applications=
 TEA=
-Terminal Emulators=
-UI Automation=
-UIA Pro=
-Visual Basic=
-.NET=
+Web=
 WPF=
 XML=
 
@@ -62,3 +58,6 @@ Action0\ObjectRepository.bdb=
 Action1\Script.mts=
 Action1\Resource.mtr=
 Action1\ObjectRepository.bdb=
+Action2\Script.mts=
+Action2\Resource.mtr=
+Action2\ObjectRepository.bdb=

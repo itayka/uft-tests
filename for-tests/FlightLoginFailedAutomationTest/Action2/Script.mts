@@ -4,7 +4,6 @@ set objShell = CreateObject("Shell.Application")
 
 Set fileSystemObj = createobject("Scripting.FileSystemObject")
 flightsExist = "C:\Program Files (x86)\Micro Focus\UFT One\samples\Flights Application\FlightsGUI.exe"
-RunAction "Login new", oneIteration
 If fileSystemObj.FileExists(flightsExist) then
 objShell.ShellExecute "C:\Program Files (x86)\Micro Focus\UFT One\samples\Flights Application\FlightsGUI.exe"
 Else
