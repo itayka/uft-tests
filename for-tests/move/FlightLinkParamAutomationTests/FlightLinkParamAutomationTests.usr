@@ -14,7 +14,7 @@ DevelopTool=AQT
 Action0=Action0\Script.mts
 1 Login=Action1\Script.mts
 2 Flight Confirmation=Action2\Script.mts
-3 Search Order=Action3\Script.mts
+Search Order 2=Action4\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -34,10 +34,11 @@ Lang=none
 
 [TulipInfo]
 ProductName=OpenText UFT One
-Version=23.4
+Version=24.2
 
 [TulipAddins]
 ActiveX=
+AF=
 AI=
 Database=
 File Content=
@@ -49,6 +50,7 @@ Terminal Emulators=
 UI Automation=
 UIA Pro=
 Visual Basic=
+Web=
 .NET=
 WPF=
 XML=
@@ -67,6 +69,6 @@ Action1\ObjectRepository.bdb=
 Action2\Script.mts=
 Action2\Resource.mtr=
 Action2\ObjectRepository.bdb=
-Action3\Script.mts=
-Action3\Resource.mtr=
-Action3\ObjectRepository.bdb=
+Action4\Script.mts=
+Action4\Resource.mtr=
+Action4\ObjectRepository.bdb=
