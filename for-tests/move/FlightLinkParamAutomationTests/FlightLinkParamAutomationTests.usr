@@ -14,7 +14,7 @@ DevelopTool=AQT
 Action0=Action0\Script.mts
 1 Login=Action1\Script.mts
 2 Flight Confirmation=Action2\Script.mts
-4 Search Order copy=Action4\Script.mts
+4 Search Order rename=Action4\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
